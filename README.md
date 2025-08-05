@@ -1,5 +1,8 @@
 # PyFuzz-Hybrid: A Coverage-Guided Fuzzing Framework
 
+[[中文]](README-zh.md)
+[[English]](README.md)
+
 A modular, coverage-guided, gray-box fuzzing framework written in Python. This project aims to demonstrate and implement a modern fuzzer by combining the high-level logic of Python with a powerful, low-level binary instrumentation tool (DynamoRIO).
 
 This project is ideal for students, researchers, and security enthusiasts interested in software security, vulnerability discovery, and systems programming.
